@@ -34,7 +34,7 @@ export class MemoList extends Component {
     render() {
         return (
             <div>
-                <h3>My plan for the day!</h3>
+                <h3>My plan for the day ヅ</h3>
 
                 <ItemsList items={this.state.items} />
 
